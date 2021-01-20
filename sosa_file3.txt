@@ -1,7 +1,7 @@
 este es el tercer archivo de sosa
 Hello,world!
 Hola, Mundo!
-Hallo, Welt!
+elimine esto
 esto fue agregado por zafra
 zafra
 zafra
